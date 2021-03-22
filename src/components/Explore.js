@@ -2,9 +2,9 @@ import React from 'react';
 
 function Explore() {
   return (
-    <div>
-      Explore      
-    </div>
+    <h2>
+      Explore       
+    </h2>
   );
 }
 
